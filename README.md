@@ -1,6 +1,6 @@
 # library-app-fullstack-graphql
 
-A full-stack GraphQL library app, front-end written by React, Apollo client and back-end written by Express.js, Apollo server, using MongoDB database. The UI is implemented by Material UI tools and Fomik for handling forms. The app is deployed on Heroku https://library-app-graphql.herokuapp.com/
+A full-stack GraphQL library app, front-end written by React, Apollo client and back-end written by Apollo server, using MongoDB database. The UI is implemented by Material UI tools and Fomik for handling forms. The app is deployed on Heroku https://library-app-graphql.herokuapp.com/
 
 ## Description
 
